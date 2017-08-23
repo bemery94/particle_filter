@@ -1,5 +1,7 @@
 # Particle Filter
 
+Video of particle filter demo: https://www.youtube.com/watch?v=pyXoEt8-hL4&feature=youtu.be
+
 Particle filter used for tracking targets using sound observations containing azimuth and elevation bearing measurements. Parameters have not been tuned for 3D target tracking, however, these parameters can be determined experimentally and changed in particle_filter_main.cc. The sound observation messages used in this implementation is proprietry software and therefore cannot be uploaded. However, this particle filter should work with any bearing-only measurement in 2D or 3D.
 
 Please contact the author for links to the bag files.
